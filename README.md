@@ -1,4 +1,3 @@
-# Control-Alt-Delete
 
 Help [Tux] escape [Beastie]'s [jail] by completing the following challenges!
 
